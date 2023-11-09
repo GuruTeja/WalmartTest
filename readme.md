@@ -15,17 +15,22 @@
 
 ### Screenshots:
 **CreateAlert:**
-![Screenshot 2023-11-09 at 3.58.14 AM.png](..%2F..%2FDesktop%2FScreenshot%202023-11-09%20at%203.58.14%20AM.png)
+![Screenshot 2023-11-09 at 3.58.14 AM.png](images%2FScreenshot%202023-11-09%20at%203.58.14%20AM.png)
 
 **Mongo Database:**
-![Screenshot 2023-11-09 at 4.04.30 AM.png](..%2F..%2FDesktop%2FScreenshot%202023-11-09%20at%204.04.30%20AM.png)
+![Screenshot 2023-11-09 at 4.04.30 AM.png](images%2FScreenshot%202023-11-09%20at%204.04.30%20AM.png)
 
 **GetAlerts:**
+
 WithData
-![Screenshot 2023-11-09 at 4.44.38 AM.png](..%2F..%2FDesktop%2FScreenshot%202023-11-09%20at%204.44.38%20AM.png)
+![Screenshot 2023-11-09 at 4.44.38 AM.png](images%2FScreenshot%202023-11-09%20at%204.44.38%20AM.png)
+
 NoData
-![Screenshot 2023-11-09 at 4.00.19 AM.png](..%2F..%2FDesktop%2FScreenshot%202023-11-09%20at%204.00.19%20AM.png)
+![Screenshot 2023-11-09 at 4.00.19 AM.png](images%2FScreenshot%202023-11-09%20at%204.00.19%20AM.png)
+
 ValidationError
-![Screenshot 2023-11-09 at 4.00.31 AM.png](..%2F..%2FDesktop%2FScreenshot%202023-11-09%20at%204.00.31%20AM.png)
+![Screenshot 2023-11-09 at 3.59.08 AM.png](images%2FScreenshot%202023-11-09%20at%203.59.08%20AM.png)
+
 ValidationError
-![Screenshot 2023-11-09 at 3.59.08 AM.png](..%2F..%2FDesktop%2FScreenshot%202023-11-09%20at%203.59.08%20AM.png)
+![Screenshot 2023-11-09 at 4.00.31 AM.png](images%2FScreenshot%202023-11-09%20at%204.00.31%20AM.png)
+
